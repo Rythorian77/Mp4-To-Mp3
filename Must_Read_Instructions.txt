@@ -1,0 +1,11 @@
+You will find the folder "Items" above. Open it and copy the "bin" folder.
+Now go to your projects "bin" folder and open it. Next, open the "Debug" folder.
+Last: Paste the bin folder you copied from the "items" folder in there.
+
+The reason for this is that there are 3 exe files that are needed to be used:
+FILES:
+*ffmpeg.exe
+*ffplay.exe
+*ffprobe.exe
+
+Your project will not function without them.
